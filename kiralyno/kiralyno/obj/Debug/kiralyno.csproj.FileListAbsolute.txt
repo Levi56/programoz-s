@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\bin\Debug\kiralyno.exe.config
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\bin\Debug\kiralyno.exe
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\bin\Debug\kiralyno.pdb
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\obj\Debug\kiralyno.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\obj\Debug\kiralyno.exe
+C:\Users\Asus\Desktop\Polgár Levente\informatika\programozás\kiralyno\kiralyno\obj\Debug\kiralyno.pdb
